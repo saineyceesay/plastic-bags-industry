@@ -1,0 +1,26 @@
+{
+  "name": "plastic-bags-industry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saineyceesay/plastic-bags-industry.git"
+  },
+  "author": "sainey ceesay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saineyceesay/plastic-bags-industry/issues"
+  },
+  "homepage": "https://github.com/saineyceesay/plastic-bags-industry#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
